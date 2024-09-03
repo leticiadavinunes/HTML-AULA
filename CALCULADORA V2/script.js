@@ -1,0 +1,1 @@
+const inpuValue = document.getElementById("user-input");

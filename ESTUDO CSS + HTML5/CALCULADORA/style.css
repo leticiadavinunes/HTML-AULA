@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+    
+    
+}
+
+.linha1{
+    justify-content: space-around;
+}
+
+.botoes{
+    width: 200px;
+}
+
+
